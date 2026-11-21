@@ -28,6 +28,18 @@ TonyTrade AI is **AI customer service automation software** for Mac and Windows.
 
 For what each platform supports today, see the [download page](https://tonytrade.com/tonytrade-ai/download/). Screenshots and demos are on the [official website](https://tonytrade.com/tonytrade-ai/).
 
+## Screenshots
+
+*Demo data, rehearsal mode, Chinese interface.*
+
+**AI reply log**
+
+![TonyTrade AI reply log (demo data)](https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/ai-replies.png)
+
+**Morning report**
+
+![TonyTrade AI morning report (demo data)](https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/morning-report.png)
+
 ## Who it is for
 
 - **Shops and service businesses** answering the same questions all day.
