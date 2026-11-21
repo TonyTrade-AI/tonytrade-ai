@@ -1,38 +1,39 @@
-# TonyTrade AI
+<p align="center"><img src="https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/logo.png" alt="TonyTrade AI logo" width="128"></p>
+
+# TonyTrade AI：微信、小红书、WhatsApp AI 客服自动化软件
 
 [English](https://github.com/TonyTrade-AI/tonytrade-ai/blob/main/README.md) · **简体中文**
 
-**回复让 AI 先写，手机还是你自己的。**
-TonyTrade AI 是装在电脑上的软件（Mac 和 Windows），用 USB 线连上你的安卓手机，支持 **WhatsApp、微信、小红书**。客户在 WhatsApp、微信上找你，AI 按你写好的资料把回复写好，你看过再发；小红书按你的名单每天做日常互动。
+**客户来问，AI 秒写回复。老板睡觉，它在值班。一个人，管 5 部手机、多个平台。**
 
-### 👉 [免费试用 3 天（下载）](https://tonytrade.com/zh/tonytrade-ai/download/) · [购买授权：99 美元一年](https://tonytrade.com/zh/tonytrade-ai/pricing/)
+TonyTrade AI 是 Mac / Windows 上的 **AI 客服自动化软件**，一根 USB 线连上你的安卓手机：**微信自动化、小红书自动化运营、WhatsApp 自动回复**，全在一个软件里。
+
+### 👉 [免费试用 3 天](https://tonytrade.com/zh/tonytrade-ai/download/) · [立即购买：99 美元一年](https://tonytrade.com/zh/tonytrade-ai/pricing/)
 
 > **关于本仓库：** 这里只是产品介绍和问题反馈，**不含任何源代码**。TonyTrade AI 是商业软件，保留所有权利。请只在官网 **[tonytrade.com](https://tonytrade.com/zh/tonytrade-ai/)** 下载和购买。
 
 ---
 
-## 适合谁用
+## 能帮你做成什么
 
-- **做国内客户、做小红书的商家**：客户在微信上问、在小红书上找你。
-- **门店和服务商家**：一天到晚回同样的客户问题。
-- **外贸和贸易公司**：海外买家用各种语言来问。
-- **有几部业务手机的团队**：想在一处统一管理。
-- **晚上顾不上回消息的老板**：时差另一头的客户夜里也在问。
-
-## 能帮你做什么
-
-- **微信：** 客户发来的消息，AI 把回复写好，你看过后自己发。
-- **小红书：** 按你的名单每天做日常互动，有每日上限。
-- **WhatsApp AI 客服：** 多少钱、有没有货、几点开门、能不能送、怎么下单，AI 用客户的语言先写好回复。
-- **只说你写过的：** 不乱报价、不乱承诺，拿不准就交给你。
-- **该找人就找人：** 投诉、退款、砍价、问付款，直接转给你。
-- **回复库和自动回复：** 常用回答写一次，天天能用。
-- **线索和跟进：** 每个询问都记着，该跟进时提醒你。
-- **夜间值守和早报：** 夜里先把回复写好，早上一页早报看清发生了什么。
-- **多手机：** 一台电脑最多连 5 部安卓手机。
-- **安全优先：** 你点了才发，不群发陌生人，刚装好就是演练模式，一键全停。
+- **微信自动化：** 客户一来消息，AI 立刻把回复写好，你看一眼就发，再也不用一句句敲。
+- **小红书自动化运营：** 按你的名单每天自动点赞、收藏、关注，账号天天都在动。
+- **WhatsApp 自动回复：** 价格、营业时间、怎么下单——常见问题按你批准的原文自动回，不用你动手。
+- **AI 秒写回复：** 客户用什么语言问，AI 就用什么语言答。
+- **不乱说话：** 价格、承诺只说你写过的，拿不准的直接交给你。
+- **一键确认，自动发出：** 你点一下，软件自动在手机上打字、发送。
+- **不漏一个客户：** 每个询问都记着，该跟进时提醒你。
+- **夜里有人值班：** 夜里来的消息先接住、回复先写好，早上一页早报全看清。
+- **一人管多机：** 一台电脑最多 5 部安卓手机，一屏看全，一键全停。
 
 各平台当前能做什么，以官网[下载页](https://tonytrade.com/zh/tonytrade-ai/download/)的说明为准。界面和演示见[官网](https://tonytrade.com/zh/tonytrade-ai/)。
+
+## 适合谁用
+
+- **做国内客户、做小红书的商家**：微信消息回不过来，小红书账号要天天运营。
+- **门店和服务商家**：一天到晚回同样的问题。
+- **外贸和贸易公司**：海外买家各种语言来问。
+- **晚上顾不上回消息的老板**：时差另一头的客户夜里也在问。
 
 ## 需要准备什么
 
@@ -44,15 +45,11 @@ TonyTrade AI 是装在电脑上的软件（Mac 和 Windows），用 USB 线连�
 | App | 微信、小红书、普通版 WhatsApp（目前不支持 WhatsApp Business 版） |
 | AI 模型 | 你自己选服务商的 API Key，或本机模型；模型费用付给服务商 |
 
-完整说明见[需要准备什么](https://tonytrade.com/zh/tonytrade-ai/get-started/)。
+## 三步开始
 
-## 怎么开始
-
-1. **[注册免费账号并下载](https://tonytrade.com/zh/tonytrade-ai/download/)** Mac 或 Windows 版。
-2. 安装、登录，连上安卓手机，跟着软件里的向导一步步点。
-3. 在软件里点 **“开始试用”**，3 天（72 小时）全功能试用从这时起算。
-4. 把产品、价格、常用回答写进去，先演练。
-5. 好用再 **[购买授权](https://tonytrade.com/zh/tonytrade-ai/pricing/)**。
+1. **[注册并下载](https://tonytrade.com/zh/tonytrade-ai/download/)** Mac 或 Windows 版。
+2. 连上安卓手机，在软件里点 **“开始试用”**——3 天全功能免费。
+3. 好用就 **[购买授权](https://tonytrade.com/zh/tonytrade-ai/pricing/)**，接着用。
 
 ## 价格
 
@@ -64,7 +61,7 @@ TonyTrade AI 是装在电脑上的软件（Mac 和 Windows），用 USB 线连�
 | 4 部 | 396 美元 |
 | 5 部（一台电脑最多） | 495 美元 |
 
-所有功能都包含，含 1 台电脑和授权期内的更新。银行卡一次付清，**不自动续费**。不含 AI 模型费用、手机、SIM 卡和流量。价格和条款以官网为准：[tonytrade.com 价格页](https://tonytrade.com/zh/tonytrade-ai/pricing/)。
+所有功能都包含，含 1 台电脑和授权期内的更新。银行卡一次付清，**不自动续费**。不含 AI 模型费用、手机、SIM 卡和流量。价格以[官网价格页](https://tonytrade.com/zh/tonytrade-ai/pricing/)为准。
 
 ## 常见问题
 
@@ -80,6 +77,9 @@ TonyTrade AI 是装在电脑上的软件（Mac 和 Windows），用 USB 线连�
 **客户数据存在哪？**
 存在你自己电脑上。TonyTrade 拿不到你的聊天记录。
 
+**会不会封号？**
+自动操作对账号有一定风险，没有软件能保证不封号。TonyTrade AI 按保守的上限操作，开始前请看[安全设计](https://tonytrade.com/zh/tonytrade-ai/safety/)。
+
 更多问题见[常见问题](https://tonytrade.com/zh/tonytrade-ai/faq/)。
 
 ## 支持和反馈
@@ -89,6 +89,6 @@ TonyTrade AI 是装在电脑上的软件（Mac 和 Windows），用 USB 线连�
 
 ---
 
-### [到 tonytrade.com 获取 TonyTrade AI →](https://tonytrade.com/zh/tonytrade-ai/)
+### [立即到 tonytrade.com 免费试用 TonyTrade AI →](https://tonytrade.com/zh/tonytrade-ai/)
 
 © TonyTrade AI，保留所有权利。本仓库不含源代码，不是开源项目，不授予复制、修改或再分发本软件的任何许可。
