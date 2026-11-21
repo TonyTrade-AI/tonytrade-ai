@@ -1,35 +1,39 @@
-# TonyTrade AI
+<p align="center"><img src="https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/logo.png" alt="TonyTrade AI logo" width="128"></p>
+
+# TonyTrade AI – WhatsApp, WeChat & Xiaohongshu AI Customer Service Automation
 
 **English** · [简体中文](https://github.com/TonyTrade-AI/tonytrade-ai/blob/main/README.zh-CN.md)
 
-**AI customer service that runs on your own Android phone.**
-TonyTrade AI is desktop software for Mac and Windows. Connect your Android phone with a USB cable, and the AI drafts replies to your customers on WhatsApp from your own notes, for you to check before they go out.
+**Customers ask, the AI answers in seconds. You sleep, it stays on shift. One person runs five phones and several platforms.**
 
-### 👉 [Download the free 3-day trial](https://tonytrade.com/tonytrade-ai/download/) · [Buy a licence – US$99/year](https://tonytrade.com/tonytrade-ai/pricing/)
+TonyTrade AI is **AI customer service automation software** for Mac and Windows. Plug in your Android phone with a USB cable and get **WhatsApp auto-reply, WeChat automation and Xiaohongshu automation** in one app.
+
+### 👉 [Start the free 3-day trial](https://tonytrade.com/tonytrade-ai/download/) · [Buy now – US$99/year](https://tonytrade.com/tonytrade-ai/pricing/)
 
 > **About this repository:** this repository is a product introduction and a place to report problems. It **does not contain source code**. TonyTrade AI is commercial software, all rights reserved. Download and buy only from **[tonytrade.com](https://tonytrade.com/tonytrade-ai/)**.
 
 ---
 
+## What it gets done
+
+- **WhatsApp auto-reply:** price, opening hours, how to order – common questions get your approved answer automatically, word for word.
+- **AI replies in seconds:** the AI drafts answers in the customer's own language.
+- **WeChat automation:** every new WeChat message gets an AI-written reply ready to send.
+- **Xiaohongshu automation:** daily likes, saves and follows from your list, on autopilot.
+- **No made-up answers:** prices and promises come only from your notes; anything unsure comes to you.
+- **One tap, sent for you:** approve once and the software types and sends on the phone.
+- **No lead left behind:** every enquiry tracked, with follow-up reminders.
+- **Night shift covered:** overnight messages are caught and answered in draft, with a one-page report each morning.
+- **One person, many phones:** up to five Android phones on one computer, with one button to stop everything.
+
+For what each platform supports today, see the [download page](https://tonytrade.com/tonytrade-ai/download/). Screenshots and demos are on the [official website](https://tonytrade.com/tonytrade-ai/).
+
 ## Who it is for
 
-- **Shops and service businesses** that answer the same customer questions all day.
-- **Exporters and trading companies** whose buyers write in many languages.
-- **Teams with several business phones** that want them in one place.
+- **Shops and service businesses** answering the same questions all day.
+- **Exporters and trading companies** with buyers writing in many languages.
+- **Sellers serving Chinese customers** on WeChat and Xiaohongshu.
 - **Owners who are offline at night** but still get enquiries from other time zones.
-
-## What it does
-
-- **AI customer service:** drafts replies to everyday questions – price, stock, hours, delivery, how to order – in the customer's language.
-- **Facts only from your notes:** it does not make up prices or promises; anything it is unsure about comes back to you.
-- **Hands off to you when needed:** complaints, refunds, haggling and payment questions go straight to you.
-- **Reply library and auto-reply:** write your answers once and use them every day.
-- **Leads and follow-up:** keeps track of every enquiry and reminds you when to follow up.
-- **Overnight cover and morning report:** replies are drafted overnight, and you get a one-page summary each morning.
-- **Multiple phones:** up to five Android phones on one computer.
-- **Safety first:** nothing is sent until you approve it, no bulk messaging to strangers, rehearsal mode on when you start, and one button to stop everything.
-
-TonyTrade AI works mainly with WhatsApp. It also drafts WeChat replies for you to check and send yourself, and does daily engagement on Xiaohongshu from your list, within daily limits. For what each platform supports today, see the [download page](https://tonytrade.com/tonytrade-ai/download/). Screenshots and demos are on the [official website](https://tonytrade.com/tonytrade-ai/).
 
 ## Requirements
 
@@ -38,18 +42,14 @@ TonyTrade AI works mainly with WhatsApp. It also drafts WeChat replies for you t
 | Computer | Mac with Apple silicon (M1 or later; Intel Macs not supported), or Windows PC (x64 or ARM) |
 | Phone | An Android phone. iPhone is not supported |
 | Cable | USB data cable plugged directly into the computer |
-| Apps | Standard WhatsApp app (WhatsApp Business not supported at present); WeChat and Xiaohongshu also supported |
+| Apps | Standard WhatsApp app (WhatsApp Business not supported at present), WeChat, Xiaohongshu |
 | AI model | Your own API key from a provider you choose, or a local model. Model fees are paid to the provider |
 
-Full list: [Getting started](https://tonytrade.com/tonytrade-ai/get-started/).
+## Get started in three steps
 
-## How to get started
-
-1. **[Create a free account and download](https://tonytrade.com/tonytrade-ai/download/)** for Mac or Windows.
-2. Install, sign in, connect your Android phone and follow the on-screen wizard.
-3. Choose **Start trial** in the software – the 3-day (72-hour) trial with every feature starts then.
-4. Add your products, prices and usual answers, and rehearse.
-5. If it works for you, **[buy a licence](https://tonytrade.com/tonytrade-ai/pricing/)**.
+1. **[Sign up and download](https://tonytrade.com/tonytrade-ai/download/)** for Mac or Windows.
+2. Connect your Android phone and choose **Start trial** in the software – 3 days, every feature, free.
+3. Like it? **[Buy a licence](https://tonytrade.com/tonytrade-ai/pricing/)** and keep going.
 
 ## Pricing
 
@@ -61,7 +61,7 @@ Full list: [Getting started](https://tonytrade.com/tonytrade-ai/get-started/).
 | 4 phones | US$396 |
 | 5 phones (the most on one computer) | US$495 |
 
-Every feature is included, with one computer and updates during your licence year. Paid once by card. **No automatic renewal.** AI model fees, phones and SIM cards are not included. Current prices and terms: [tonytrade.com/tonytrade-ai/pricing](https://tonytrade.com/tonytrade-ai/pricing/).
+Every feature is included, with one computer and updates during your licence year. Paid once by card. **No automatic renewal.** AI model fees, phones and SIM cards are not included. Current prices: [pricing page](https://tonytrade.com/tonytrade-ai/pricing/).
 
 ## FAQ
 
@@ -77,6 +77,9 @@ No. Prices and promises must match what you wrote; if they do not, the reply com
 **Where is my customer data stored?**
 On your computer. TonyTrade does not receive your conversations.
 
+**Can my account be banned?**
+Automated use carries some account risk, and no software can promise otherwise. TonyTrade AI works within cautious limits; please read the [safety design](https://tonytrade.com/tonytrade-ai/safety/) before you start.
+
 More answers: [FAQ](https://tonytrade.com/tonytrade-ai/faq/).
 
 ## Support and feedback
@@ -86,6 +89,6 @@ More answers: [FAQ](https://tonytrade.com/tonytrade-ai/faq/).
 
 ---
 
-### [Get TonyTrade AI at tonytrade.com →](https://tonytrade.com/tonytrade-ai/)
+### [Start your free trial at tonytrade.com →](https://tonytrade.com/tonytrade-ai/)
 
 © TonyTrade AI. All rights reserved. This repository contains no source code and is not open source; no licence is granted to copy, modify or redistribute the software.
