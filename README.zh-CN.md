@@ -28,6 +28,18 @@ TonyTrade AI 是 Mac / Windows 上的 **AI 客服自动化软件**，一根 USB 
 
 各平台当前能做什么，以官网[下载页](https://tonytrade.com/zh/tonytrade-ai/download/)的说明为准。界面和演示见[官网](https://tonytrade.com/zh/tonytrade-ai/)。
 
+## 软件截图
+
+*演示数据，演练模式，中文界面。*
+
+**AI 回复记录**
+
+![TonyTrade AI AI 回复记录（演示数据）](https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/ai-replies.png)
+
+**每日早报**
+
+![TonyTrade AI 每日早报（演示数据）](https://raw.githubusercontent.com/TonyTrade-AI/tonytrade-ai/main/assets/morning-report.png)
+
 ## 适合谁用
 
 - **做国内客户、做小红书的商家**：微信消息回不过来，小红书账号要天天运营。
